@@ -1,0 +1,13 @@
+# Temporary Office files
+~$*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Power BI backups
+*.pbix.autosave
+
+# Python
+__pycache__/
+*.pyc
