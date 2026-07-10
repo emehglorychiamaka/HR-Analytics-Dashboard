@@ -16,6 +16,23 @@
 ![Dashboard Cover](Images/Cover_Page.png)
 
 
+## 📑 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Project Objectives](#project-objectives)
+- [Dataset Information](#dataset-information)
+- [Data Profiling](#data-profiling)
+- [Data Cleaning](#data-cleaning)
+- [Dashboard Pages](#dashboard-pages)
+- [Key Business Insights](#key-business-insights)
+- [Recommendations](#recommendations)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Tools Used](#tools-used)
+- [Repository Structure](#repository-structure)
+- [About the Author](#about-the-author)
+
+
 # Project Overview
 
 Employee attrition is one of the biggest challenges organizations face. High employee turnover increases recruitment costs, reduces productivity, and affects overall organizational performance.
