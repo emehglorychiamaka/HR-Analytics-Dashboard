@@ -1,5 +1,16 @@
 # 📊 HR Analytics Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?logo=microsoftexcel&logoColor=white)
+
+![DAX](https://img.shields.io/badge/DAX-Measures-blue)
+
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 ## Employee Attrition & Workforce Insights using Power BI
 
 ![Dashboard Cover](Images/Cover_Page.png)
