@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard
+#  HR Analytics Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 
@@ -16,7 +16,7 @@
 ![Dashboard Cover](Images/Cover_Page.png)
 
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Business Problem](#business-problem)
@@ -191,6 +191,19 @@ Based on the findings, the following actions are recommended:
 - Review compensation for lower salary bands.
 - Increase retention programs for critical job roles.
 - Conduct regular employee satisfaction surveys.
+
+
+# Expected Business Impact
+
+Implementing the recommendations from this analysis can help the organization:
+
+- Reduce employee turnover and associated recruitment costs.
+- Improve employee engagement and job satisfaction.
+- Strengthen workforce retention strategies.
+- Enhance work-life balance initiatives.
+- Improve talent development and promotion planning.
+- Support data-driven HR decision-making.
+- Increase overall organizational productivity.
 
 
 # Skills Demonstrated
