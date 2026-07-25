@@ -22,16 +22,14 @@
 - [Business Problem](#business-problem)
 - [Project Objectives](#project-objectives)
 - [Dataset Information](#dataset-information)
-- [Data Profiling](#data-profiling)
-- [Data Cleaning](#data-cleaning)
 - [Dashboard Pages](#dashboard-pages)
 - [Key Business Insights](#key-business-insights)
 - [Recommendations](#recommendations)
+- [Expected Business Impact](#expected-business-impact)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Tools Used](#tools-used)
 - [Repository Structure](#repository-structure)
 - [About the Author](#about-the-author)
-
 
 # Project Overview
 
@@ -83,32 +81,36 @@ This dashboard was developed to:
 | Tool Used | Microsoft Excel |
 | Dashboard Tool | Microsoft Power BI |
 
+# Project Workflow
 
-# Data Profiling
+This project followed the complete data analytics lifecycle:
 
-The dataset was assessed before analysis.
+Business Problem
+      │
+      ▼
+Data Collection
+      │
+      ▼
+Data Profiling
+      │
+      ▼
+Data Cleaning (Excel)
+      │
+      ▼
+Power BI Data Modeling
+      │
+      ▼
+DAX Measures
+      │
+      ▼
+Dashboard Design
+      │
+      ▼
+Business Insights
+      │
+      ▼
+Executive Recommendations
 
-The following issues were identified:
-
-- 10 duplicate employee records
-- 57 missing values in YearsWithCurrManager
-- Typographical inconsistency in BusinessTravel
-- Three unnecessary columns
-- Minor formatting inconsistencies
-
-
-# Data Cleaning
-
-The following cleaning steps were performed:
-
-- Removed duplicate employee records.
-- Removed EmployeeCount column.
-- Removed StandardHours column.
-- Removed Over18 column.
-- Corrected BusinessTravel spelling inconsistencies.
-- Standardized column formatting.
-- Validated unique employee records.
-- Created additional analytical columns where required.
 
 
 # Dashboard Pages
@@ -234,18 +236,34 @@ This project demonstrates practical skills in:
 
 # Repository Structure
 
-```
 HR-Analytics-Dashboard
 │
 ├── Dashboard
+│   └── HR_Analytics_Dashboard.pbix
+│
 ├── Data
+│   ├── HR_Raw_Dataset.xlsx
+│   ├── HR_Cleaned_Dataset.xlsx
+│   └── Data_Profiling.xlsx
+│
 ├── Documentation
+│   ├── Business_Report.pdf
+│   ├── Data_Cleaning_Process.md
+│   ├── Data_Dictionary.md
+│   ├── Project_Summary.md
+│   ├── Project_Challenges.md
+│   └── Lessons_Learned.md
+│
 ├── DAX
+│   └── DAX_Measures.md
+│
 ├── Images
+│
 ├── Presentation
+│
 ├── README.md
-└── .gitignore
-```
+│
+└── LICENSE
 
 # About the Author
 
